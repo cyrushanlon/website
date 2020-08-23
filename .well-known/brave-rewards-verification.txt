@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: cyrushanlon.com
-Token: 9f8da42c7fde59ac6ed64be7c4102077ba003a277262df624df4dd24f2399324
