@@ -13,7 +13,7 @@ During my research I also found this [instructables](https://www.instructables.c
 
 # How did I do it?
 
-  The first step is opening the damn thing, ifixit rates it as very difficult. For the first times opening 6th gen iPods I certainly agree. I followed the steps found [here](https://www.ifixit.com/Guide/iPod+Classic+Hard+Drive+Replacement/564) using 4 iflash [flexible pry tools](https://www.iflash.xyz/store/flexible-pry-tool/). I Followed along up to the removal of the hard disk.
+  The first step is opening the damn thing, ifixit rates it as very difficult. For the first times opening 6th gen iPods I certainly agree. I followed the steps found [here](https://www.ifixit.com/Guide/iPod+Classic+Hard+Drive+Replacement/564) using 4 iflash [flexible pry tools](https://www.iflash.xyz/store/flexible-pry-tool/). I followed along up to the removal of the hard disk.
 
   I managed to do the required soldering with the motherboard inside the frame, but it would be a bit easier if you took it out.
 
