@@ -82,6 +82,6 @@ I had a lot of trouble fitting it in nicely and was quite dissapointed with the 
 
 I learnt I am not great at soldering small things and have decided to invest in some better tools to try and prop up my lack of skill.
 
-In future I'd like to create a custom PCB and hopefully do something to improve the range. I'd also like to use a thick back so I can have a large capacity battery to nicely finish off the package.
+In the future I'd like to create a custom PCB and hopefully do something to improve the range. I'd also like to use a thick back so I can have a large capacity battery to nicely finish off the package.
 
 Thanks for reading.
