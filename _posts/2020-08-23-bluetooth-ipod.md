@@ -23,7 +23,7 @@ During my research I also found this [instructables](https://www.instructables.c
 
   To prepare the bluetooth board, I broke open the case and desoldered the battery and soldered a wire onto each of the pads, they will end up going to the iPod battery. 
   
-  These cheap boards do not take well to being pulled on, I accentally pulled off both of the battery pads when desoldering it and had to trace to the first points the battery connected to. I'd recommend using black and red wires, unlike me, who only had odd bits of various colours.
+  These cheap boards do not take well to being pulled on, I accidentally pulled off both of the battery pads when desoldering it and had to trace to the first points the battery connected to. I'd recommend using black and red wires, unlike me, who only had odd bits of various colours.
 
   ![alt text](/static/bluetooth-ipod/bluetooth-power.jpg "Please don't mention my poor soldering job.")
 
